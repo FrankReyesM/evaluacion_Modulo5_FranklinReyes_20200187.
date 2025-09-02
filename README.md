@@ -1,4 +1,4 @@
-# UserApp - React Native + Firebase
+# Heteroevaluacionm - React Native + Firebase
 
 Aplicación móvil de gestión de usuarios con registro, login y edición de perfil.
 
